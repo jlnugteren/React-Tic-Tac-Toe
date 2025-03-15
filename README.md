@@ -2,8 +2,7 @@
 Last Updated: *3/2/25*
 
 ## Description
-This was my first attempt at using React. It is something I've always wanted to use in my career and figured a Tic Tac Toe App would be a good place to start. I followed this tutorial located here: [Tic Tac Toe - Tutorial](https://www.youtube.com/watch?v=lYtPscvwgP4)
-
+This was my first attempt at using React. It is something I've always wanted to use in my career and figured a Tic Tac Toe App would be a good place to start.
 I realize this project isn't necessarily the cleanest and could definitely use some optimization. For example, I could probably break down the board rows and tiles into their own components. 
 
 ## Learning Outcomes
